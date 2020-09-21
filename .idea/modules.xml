@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PK1.iml" filepath="$PROJECT_DIR$/.idea/PK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum1-Medienverwaltung/PK1-Praktikum1-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum1-Medienverwaltung/PK1-Praktikum1-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum2-Medienverwaltung/PK1-Praktikum2-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum2-Medienverwaltung/PK1-Praktikum2-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum3-Medienverwaltung/PK1-Praktikum3-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum3-Medienverwaltung/PK1-Praktikum3-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum4-JavaIO/PK1-Praktikum4-JavaIO.iml" filepath="$PROJECT_DIR$/PK1-Praktikum4-JavaIO/PK1-Praktikum4-JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum4-Medienverwaltung/PK1-Praktikum4-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum4-Medienverwaltung/PK1-Praktikum4-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum5-Medienverwaltung/PK1-Praktikum5-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum5-Medienverwaltung/PK1-Praktikum5-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum6-JavaFX/PK1-Praktikum6-JavaFX.iml" filepath="$PROJECT_DIR$/PK1-Praktikum6-JavaFX/PK1-Praktikum6-JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum6-Medienverwaltung/PK1-Praktikum6-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum6-Medienverwaltung/PK1-Praktikum6-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum7-Medienverwaltung/PK1-Praktikum7-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum7-Medienverwaltung/PK1-Praktikum7-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum8-Medienverwaltung/PK1-Praktikum8-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum8-Medienverwaltung/PK1-Praktikum8-Medienverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK1-Praktikum9-Medienverwaltung/PK1-Praktikum9-Medienverwaltung.iml" filepath="$PROJECT_DIR$/PK1-Praktikum9-Medienverwaltung/PK1-Praktikum9-Medienverwaltung.iml" />
+    </modules>
+  </component>
+</project>
