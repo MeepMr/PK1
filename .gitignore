@@ -27,3 +27,9 @@
 /out/production/PK1-Praktikum9-Medienverwaltung/DatenhaltungsSchicht/Serializierung.class
 /out/production/PK1-Praktikum9-Medienverwaltung/GUISchicht/EventHandler/SpeichernHandler.class
 /out/production/PK1-Praktikum9-Medienverwaltung/GUISchicht/EventHandler/ToDateiHandler.class
+/.idea/.gitignore
+/.idea/libraries/JavaFX.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/Programmierkurs-1.iml
+/.idea/vcs.xml
